@@ -25,7 +25,8 @@
 .button {
   position: absolute;
   left: 360px;
-  top: 21px;
+  top: 19px;
+  font-size: 20px;
 }
 .button:hover {
   cursor: pointer;
